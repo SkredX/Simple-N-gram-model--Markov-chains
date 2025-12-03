@@ -6,9 +6,17 @@ This repository contains a minimal character-level bigram Markov model for gener
 
 Simple-bigram-model--Markov-chains/
 Bigram Model/
+
+
 bigram-name-generator.ipynb
+
+
 name generator.py
+
+
 names.txt
+
+
 Markov_README.txt
 
 
