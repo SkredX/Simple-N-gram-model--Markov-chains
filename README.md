@@ -1,6 +1,6 @@
-# Simple Bigram Model: Markov Chains
+# Simple N-gram Model: Markov Chains
 
-This repository contains a minimal character-level bigram Markov model for generating realistic name-like text. The notebook `n gram-name-generator.ipynb` demonstrates how character transitions are counted, normalized into probabilities, and sampled to generate new names. The model operates using simple statistical dependencies between consecutive characters and provides an interpretable introduction to generative text modeling.
+This repository contains a minimal character-level N-gram Markov model for generating realistic name-like text. The notebook `n gram-name-generator.ipynb` demonstrates how character transitions are counted, normalized into probabilities, and sampled to generate new names. The model operates using simple statistical dependencies between consecutive characters and provides an interpretable introduction to generative text modeling.
 
 ## Repository Structure
 
